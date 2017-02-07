@@ -1,0 +1,11 @@
+Package: vw
+Title: Utilities for Vowal Wabbit
+Version: 0.0.0.9000
+Authors@R: person("Edwin", "de Jonge", email = "edwindjonge@gmail.com", role = c("aut", "cre"))
+Description: Utilities for Vowal Wabbit.
+Depends:
+    R (>= 3.3.2)
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
